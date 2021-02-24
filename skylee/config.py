@@ -13,7 +13,7 @@ class Development(Config):
     NO_LOAD = []
     TELETHON_HASH = "1c2c4f9d372bdb22958807b17bc33966" # for purge stuffs
     TELETHON_ID = "1798019"
-    PORT = 5000
+    PORT = 8080
     WEBHOOK = False
     URL = None
     SPAMWATCH_API = "dAsbHWPfYv1Q2HoQSV6pm96Z_9vOZdHPCO34p0t7miR2O8tdPsCfr61NT8ZSssXJ"
