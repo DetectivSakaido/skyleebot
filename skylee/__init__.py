@@ -83,7 +83,7 @@ if ENV:
     SPAMWATCH = os.environ.get("SPAMWATCH_API", None)
 
 else:
-    from skylee.config import Development as Config
+    from skyle.config import Development as Config
 
     TOKEN = Config.API_KEY
     try:
