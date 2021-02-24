@@ -14,3 +14,5 @@ class Development(Config):
     TELETHON_HASH = "1c2c4f9d372bdb22958807b17bc33966" # for purge stuffs
     TELETHON_ID = "1798019"
     PORT = 5000
+    WEBHOOK = False
+    URL = None
