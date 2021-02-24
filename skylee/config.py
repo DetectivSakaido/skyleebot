@@ -17,3 +17,7 @@ class Development(Config):
     WEBHOOK = False
     URL = None
     SPAMWATCH_API = "dAsbHWPfYv1Q2HoQSV6pm96Z_9vOZdHPCO34p0t7miR2O8tdPsCfr61NT8ZSssXJ"
+    ALLOW_EXCL = True
+    CERT_PATH = None
+    CUSTOM_CMD = False
+    WORKERS = 8
